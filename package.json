@@ -93,7 +93,7 @@
     "jest": "^26.4.2",
     "jest-config": "^26.4.2",
     "jest-sonar": "^0.2.10",
-    "lerna": "^3.22.1",
+    "lerna": "^6.4.1",
     "lint-staged": "^10.3.0",
     "lodash.camelcase": "^4.3.0",
     "mockdate": "^3.0.2",
